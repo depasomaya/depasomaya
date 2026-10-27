@@ -26,6 +26,7 @@ Servicio: Pick-up y entrega a domicilio
 Líneas: Fitness · High Protein · Keto · Veggie ·
   Diabético · Adulto mayor · Infantil · Familiar · Balance
 Membresías: Básico · Pro · Premium · Familiar · Empresarial
+Paleta: rojo guacamaya · verde palma · azul cielo · amarillo sol
 
 estado: [ COCINA ABIERTA ]
 ```
@@ -36,7 +37,7 @@ estado: [ COCINA ABIERTA ]
 
 - DePasoMaya's GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=depasomaya&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=depasomaya&show_icons=true&bg_color=FFF8E7&title_color=E63946&icon_color=06A77D&text_color=333333&border_color=FFD166)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=depasomaya&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=depasomaya&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=depasomaya&theme=nord_dark)
@@ -93,7 +94,7 @@ depasomaya@cocina:~$ _
 ```
 
 [website-url]: https://depasomaya.github.io/
-[website-shield]: https://img.shields.io/badge/-Sitio_web-black.svg?style=for-the-badge&logo=googlechrome&colorB=4caf7d
+[website-shield]: https://img.shields.io/badge/-Sitio_web-black.svg?style=for-the-badge&logo=googlechrome&colorB=E63946
 [whatsapp-url]: https://wa.me/5212213592098
 [whatsapp-shield]: https://img.shields.io/badge/-WhatsApp-black.svg?style=for-the-badge&logo=whatsapp&colorB=25D366
 [facebook-url]: https://www.facebook.com/share/1AxcZgyb3i/?mibextid=wwXIfr
